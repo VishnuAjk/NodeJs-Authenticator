@@ -27,11 +27,11 @@ To run the project locally, follow these steps:
 ## Screenshots
 
 ### User Registration
-
+![RegistrationPage](https://github.com/VishnuAjk/NodeJs-Authenticator/assets/145429961/21320b38-06bd-45eb-85b3-94779d296d0d)
 ### User Login
-
+![SignInPage](https://github.com/VishnuAjk/NodeJs-Authenticator/assets/145429961/196ca589-e545-4169-a3f1-6e412e0419a2)
 ### Password Reset
-
+![ResetPasswordPage](https://github.com/VishnuAjk/NodeJs-Authenticator/assets/145429961/7f9b134c-9cdc-46c6-8e01-613ae04a1d67)
 ### User Logout
-
+![LogoutPage](https://github.com/VishnuAjk/NodeJs-Authenticator/assets/145429961/681e33cd-92aa-451f-9461-dbff7832dea7)
 ## Website Link
